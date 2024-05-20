@@ -15,20 +15,31 @@ Este repositório contém os protótipos de interface do sistema, desenvolvidos 
 
 Para desenvolver os protótipos funcionais, foram utilizadas as seguintes ferramentas:
 
-
 - [Figma](https://figma.com)
 
-Estas ferramentas permitem criar protótipos interativos que refletem fielmente os modelos de uso definidos anteriormente.
 
-## Acesso aos Protótipos
+## Cenários elaborados
 
-Os arquivos dos protótipos estão armazenados neste repositório. Você pode acessar e visualizar cada jornada de cadastro através dos links abaixo:
+De acordo com os diagramas desenvolvidos com base na primeira entrega, elaboramos os cenários abrangendo a gestão escolar, sendo eles:
+1. Administrador cria turmas
+2. Aluno acesso o sistema
+3. Fornecedor gera boleto
+5. Professor lança das notas e prova
 
-- [Cadastro de Pessoa Física](link_para_o_protótipo)
-- [Cadastro de Pessoa Jurídica](link_para_o_protótipo)
-- [Cadastro de Professores](link_para_o_protótipo)
-- [Cadastro de Fornecedores](link_para_o_protótipo)
-- [Cadastro de Alunos](link_para_o_protótipo)
+1. Esse cenário representa a rotina de um administrador, responsável pela criação e gestão das turmas.
+2. Esse cenário representa o acesso de um aluno ao sistema, tendo acesso as notas e por atualizar dados cadastrais.
+3. Esse cenário representa um fornecedor que gera notas fiscais, possui acesso a lista de transações e faz a gestão das transações que quer gerar notas fiscais.
+4. Nesse cenário o professor faz o lançamento das provas e notas, selecionando os alunos respectivos e confirmando os lançamentos necessários.
 
-## Estrutura do Repositório
+Todas as interações requerem autenticação, possibilitando também a redefinição de chaves caso seja necessário.
+
+   
+para acessar os arquivos, basta interagir com os links abaixo:
+
+1. Administrador cria turmas 
+2. Aluno acesso o sistema
+3. Fornecedor gera boleto
+5. Professor lança das notas e prova
+
+
 
