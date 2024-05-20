@@ -46,3 +46,10 @@ Para acessar os arquivos, basta interagir com os links abaixo:
 2. [Aluno acessa o sistema](https://github.com/Guilherme0709/Grupo-39-PI-ADS/blob/main/Aluno_acessa_o_Sistema.pdf)
 3. [Fornecedor gera boleto](https://github.com/Guilherme0709/Grupo-39-PI-ADS/blob/main/Fornecedor%20Gera%20Boleto.pdf)
 4. [Professor lança notas e provas](https://github.com/Guilherme0709/Grupo-39-PI-ADS/blob/main/Professor_lan%C3%A7a_Notas.pdf)
+
+## 1ª Entrega do Projeto Integrador
+
+O arquivo da primeira entrega do projeto integrador está no link abaixo:
+
+1. [Primeira entrega] (google.com)
+
