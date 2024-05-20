@@ -1,3 +1,4 @@
+
 # Grupo-39-PI-ADS
 
 ## 2ª Entrega do Projeto Integrador
@@ -14,11 +15,22 @@ Este repositório contém os protótipos de interface do sistema, desenvolvidos 
 4. Fornecedores
 5. Alunos
 
+## Integrantes do Grupo
+
+* Isac Correa Dos Santos 
+* Guilherme Da Silva Pinto 
+* Karoliny Do Amaral Carneiro Machado 
+* Luís Felipe Soares
+* Marcelo Gomes Rodrigues 
+* Juan Lucas Ribeiro Dos Santos
+* Tiago Sampaio Costa
+* Francisco Samuel Viana Cosmo
+
 ## Ferramentas Utilizadas
 
 Para desenvolver os protótipos funcionais, foram utilizadas as seguintes ferramentas:
 
-- [Figma](https://figma.com)
+- [Canva](https://www.canva.com/pt_br/)
 
 ## Cenários Elaborados
 
@@ -51,5 +63,7 @@ Para acessar os arquivos, basta interagir com os links abaixo:
 
 O arquivo da primeira entrega do projeto integrador está no link abaixo:
 
-1. [Primeira entrega] (google.com)
+1. [Primeira entrega](https://drive.google.com/file/d/1rxIVSh7JzFp1vzwwx_4qws1Te3BpeHhd/view?usp=sharing)
+
+
 
