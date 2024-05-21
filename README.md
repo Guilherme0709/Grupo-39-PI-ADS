@@ -67,6 +67,33 @@ O arquivo da primeira entrega do projeto integrador está no link abaixo:
 
 ## Protótipo do sistema de cadastro
 
+### Tela de registro
+![Tela de Registro](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/03d9996b-ba5e-4e37-bb90-b75005049d73)
+
+### Conta Bloqueada
+![conta bloqueada](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/cc0292ba-93bc-4b5f-935b-70d8b8c8ef56)
+
+### Conta Reativada
+![conta reativada](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/a12b6d11-b7aa-489e-9713-5a4e0f476b32)
+
+### Identidade Verificada
+![identidade verificada](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/8ef1ca7c-82bd-4c08-aa42-830382b74db5)
+
+### Lançamento Concluído
+![Lançamento concluido](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/f9cdfdf9-9390-418f-a576-257a94ae72f0)
+
+### Lançamento de Notas
+![Lançamento de notas](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/fb38721a-7b85-435a-85fc-21d76a66f8a0)
+
+### Professor Lança Provas
+![Professor lança provas](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/13f2be7b-d20d-4d72-a6ef-723ccbe7fca9)
+
+### Professor Seleciona Turma
+![Professor seleciona turma](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/cd1f2762-e668-47bc-9242-3ae20fadabd6)
+
+### Suporte Técnico
+![suporte tecnico](https://github.com/Guilherme0709/Grupo-39-PI-ADS/assets/156130859/f4e715e4-1eaf-44f4-a922-4e08211ef845)
+
 
 
 
